@@ -1,0 +1,37 @@
+_repo: Sovereign-GraceIts-Source-Its-Nature-and-Its-Effects_30657
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, D. L. (Dwight Lyman)
+    - Moody, Dwight L.
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2009-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grace (Theology) -- Sermons'
+- !lcsh 'Sermons, American -- 19th century'
+- !lcc 'BT'
+tableOfContents: The fountain of grace -- Saved by grace alone -- Possessing, and
+  'working out' -- Grace abounding to the chief of sinners -- Law and grace -- Grace
+  for living -- Grace for service -- "A chime of Gospel bells" -- Gospel dialogues.
+  What it is to be a child of God / Mr. Moody and Rev. Marcus Rainsford -- How to
+  become a Christian / Mr. Moody and Rev. Marcus Rainsford -- What it is to be converted
+  / Mr. Moody and Mr. Radstock.
+title: 'Sovereign Grace: Its Source, Its Nature and Its Effects'
+url: http://www.gutenberg.org/ebooks/30657
